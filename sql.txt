@@ -1,0 +1,21 @@
+Authetication
+                    providing permission to enter or login in to system
+                    It contains 3 types of  Authetication
+                              Windows Authetication   ----   Login based on windows credintials
+                              Sql server Authetication    -------   Login based on  user name and password.
+                              Mixed mode Authetication ----  It contains both  Windows Authetication   & Sql server Authetication
+
+  
+  Authirization:
+                          providing permission to do something in the system
+
+                          Ex : create datbase, update , delete, etc...
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is DataBase?
+
+DataBase  is nothing but organized form of data, It allows us to store, access , retrive , mnipulate , manage date in easily and effective manner.
+DataBase is collection of data we can access the data in a digital format from remote and local computer system.
+DataBase is a collection or group of relates  
