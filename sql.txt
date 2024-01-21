@@ -1,3 +1,10 @@
+Record: Approximate   { Line NO : } 
+
+Authetication & Authirization  { Line NO : 4 }
+What is DataBase? { Line NO : 22 }
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+1]
 Authetication
                     providing permission to enter or login in to system
                     It contains 3 types of  Authetication
@@ -14,8 +21,29 @@ Authetication
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-What is DataBase?
+2]  What is DataBase?
 
-DataBase  is nothing but organized form of data, It allows us to store, access , retrive , mnipulate , manage date in easily and effective manner.
-DataBase is collection of data we can access the data in a digital format from remote and local computer system.
-DataBase is a collection or group of relates  
+                  DataBase  is nothing but organized form of data, It allows us to store, access , retrive , mnipulate , manage date in easily and effective manner.
+                  DataBase is collection of data we can access the data in a digital format from remote and local computer system.
+                  DataBase can be vast and complex, and such databases are developed using fixed design and modeling approaches
+                  DataBase is a collection or group of related data.IT contains tables, views , stored procedures.
+
+                        ex: College Management Database system  
+                            School Management Database system.
+                  There are popular  data Base available in this Tech world,
+                  they are   
+                              Oracle. The Oracle database was developed by the … Oracle Corporation
+                              MySQL. MySQL is an open-source database that is …  Oracle Corporation
+                              Microsoft SQL Server. MS SQL server is a very …    Microsoft
+                              PostgreSQL. 
+                                  ext .....
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3]
+What is SQL ?
+
+Full form of SQL Structured Query Language.
+It was developed at IBM company by Donald D. Chamberline and Reymond F. Boyce.  
+                                                                                                   Continue agum
+
