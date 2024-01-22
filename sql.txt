@@ -1,9 +1,9 @@
 Record: Approximate   { Line NO : } 
 
-Authetication & Authirization  { Line NO : 4 }
-What is DataBase? { Line NO : 22 }
-
----------------------------------------------------------------------------------------------------------------------------------------------
+1.Authetication & Authirization  { Line NO : 4 }
+2.What is DataBase? { Line NO : 22 }
+3.what is sql and its advantages?  { Line NO : 44 } 
+--------------------------------------------------------------------------------------------------------------------------------------------
 1]
 Authetication
                     providing permission to enter or login in to system
@@ -19,7 +19,7 @@ Authetication
                           Ex : create datbase, update , delete, etc...
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 2]  What is DataBase?
 
@@ -39,11 +39,39 @@ Authetication
                                   ext .....
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------       
 3]
-What is SQL ?
+What is MS SQL ?
 
 Full form of SQL Structured Query Language.
-It was developed at IBM company by Donald D. Chamberline and Reymond F. Boyce.  
-                                                                                                   Continue agum
+It was developed at IBM company by Donald D. Chamberline and Reymond F. Boyce.
+Standard of writing queries in a Language format is called SQL.
+Standard  Language for STORING , RETRIVING , MANIPULATING data in a database or Realational database.
+SQL is used to communicate with a database.
+It is the standard language for relational database management systems. It is especially useful in handling organized data comprised of entities (variables) and relations between different entities of the data
 
+                                        Advantages or features of the MS Sql
+                                                    Code reusability
+                                                    Error Handling
+                                                    Procedural Language
+                                                    Reduces Network Traffic
+                                                    a) Easy data retrieval and manipulation 
+                                                    
+                                                        b) Data security 
+                                                    
+                                                        c) Scalability 
+                                                    
+                                                        d) Data integrity 
+                                                    
+                                                        e) Flexibility in querying 
+                                                    
+                                                        f) Integration with modern technologies 
+                                                    
+                                                        g) Wide adoption and community support 
+                                                         Cost-effectiveness 
+            
+                                                          i) ACID compliance 
+                                          
+                                                          j) Business intelligence and reporting 
+-----------------------------------------------------------------------------------------------------------------------------------------
+continue agum
