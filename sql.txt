@@ -74,4 +74,54 @@ It is the standard language for relational database management systems. It is es
                                           
                                                           j) Business intelligence and reporting 
 -----------------------------------------------------------------------------------------------------------------------------------------
-continue agum
+            SQL commands are grouped into four major categories depending on their functionality:
+
+       SQL commands are instructions, coded into SQL statements, which are used to communicate with the database to perform specific tasks, work, functions and queries with data.
+
+              SQL commands can be used not only for searching the database but also to perform various other functions like, for                       example, you can create tables, add data to tables, or modify data, drop the table, set permissions for users.
+
+            Most of the actions you need to perform on a database are done with SQL statements.
+
+Data Definition Language (DDL)
+                full form required
+                These SQL commands are used for creating, modifying, and dropping the structure of database objects. The commands are                   CREATE, ALTER, DROP, RENAME, and TRUNCATE.
+
+
+Data Manipulation Language (DML)
+                full form required
+
+                    These SQL commands are used for storing, retrieving, modifying, and deleting data.
+                    These Data Manipulation Language commands are: SELECT, INSERT, UPDATE, and DELETE.
+
+
+Transaction Control Language (TCL)
+
+          These SQL commands are used for managing changes affecting the data. These commands are COMMIT, ROLLBACK, and SAVEPOINT.
+
+
+Data Control Language (DCL)
+These SQL commands are used for providing security to database objects. These commands are GRANT and REVOKE.
+
+
+
+
+                            The following SQL commands are frequently used in SQL queries.
+
+                                                SQL SELECT
+                                                SQL DISTINCT
+                                                SQL WHERE
+                                                SQL AND OR
+                                                SQL IN
+                                                SQL BETWEEN
+                                                SQL Wildcard
+                                                SQL LIKE
+                                                SQL ORDER BY
+                                                SQL GROUP BY
+                                                SQL HAVING
+                                                SQL ALIAS
+                                                SQL AS
+                                                SQL SELECT UNIQUE
+                                                SQL INSERT INTO
+                                                SQL INSERT INTO SELECT
+                                                SQL UPDATE
+                                                SQL DELETE FORM
