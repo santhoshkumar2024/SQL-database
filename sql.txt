@@ -202,3 +202,33 @@ we can also use where condidtion to implement the count query.
                   select max (coloumn_name) from table_name where column_data = 'value_of_the_record '
 
 ------------------------------------------------------------------------------------------------------------------------
+
+
+OPERATORS 
+                  OR OOPERATOR
+                 AND OPERATOR
+IN OOPERATOR
+NOT IN OOPERATOR
+
+SYNTAX :     
+select * from items where price = '5' or price =  '16.3'
+select * from items where price = '4.5' or price =  '20'
+select * from items where price = '30' or price = '39'
+
+select * from items
+select * from items where price != '5' and price != '16.3'
+select * from items where price != '4.5' and price != '20'
+select * from items where price != '40' and price != '667'
+
+select * from items where price  in (5,6,7,8,12,16.3)
+select * from items where price in(5,6,7,8,100,189,90)
+select *   from items where price in (90,80,50,200,20000,10000)
+
+select * from items where price  not in (5,6,7,8,12,16.3)
+select * from items where id not in (1,2,3,4,90,89)
+
+
+
+
+
+
