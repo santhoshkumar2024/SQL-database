@@ -84,12 +84,12 @@ It is the standard language for relational database management systems. It is es
 
 Data Definition Language (DDL)
                 full form required
-                These SQL commands are used for creating, modifying, and dropping the structure of database objects. The commands are                   CREATE, ALTER, DROP, RENAME, and TRUNCATE.
+                These SQL commands are used for creating, modifying, and dropping the structure of database objects. 
+                The commands are    CREATE, ALTER, DROP, RENAME, and TRUNCATE.
 
 
 Data Manipulation Language (DML)
-                full form required
-
+                    full form required
                     These SQL commands are used for storing, retrieving, modifying, and deleting data.
                     These Data Manipulation Language commands are: SELECT, INSERT, UPDATE, and DELETE.
 
