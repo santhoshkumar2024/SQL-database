@@ -125,3 +125,39 @@ These SQL commands are used for providing security to database objects. These co
                                                 SQL INSERT INTO SELECT
                                                 SQL UPDATE
                                                 SQL DELETE FORM
+----------------------------------------------------------------------------------------------------------------------------------------
+Delete 
+
+Delete  query is used to delete all the data prsent in the table.
+We can able reecover all the data after the deleting the data.
+
+Syntax:    delete    Table_name 
+
+ex: if you delete the data by using the delete query , after that values are continue to insert into continuation of the id
+when i delete first 5 rows , insertion starts works on 6 rows, it is the nature of the delete   
+
+***************************************************************************************************************************
+
+
+Drop:
+Delete  query is used to delete all the data prsent in the table.
+Delete  query also delete the table [whole table] [Entire Table].
+we can able to recover the data the drop.
+ 
+Syntax:    drop table table_name.
+
+ex: we assume there is a table which present in the  data base, after executing the drop query it delete all the data and also table 
+
+***************************************************************************************************************************
+Truncate:
+
+Truncate is used to delete the data which prsent in the table.
+It delete permanently all the data.
+We cant able to recover the data like delete.
+
+Syntax:    truncate table table_name
+
+ex: We can  take  a table after executing the truncate table we cant able to recover it , in real life scenaryo we can take exection proceess of permannent delete in our computer sysytem 
+
+------------------------------------------------------------------------------------------------------------------------
+
