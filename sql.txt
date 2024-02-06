@@ -161,3 +161,44 @@ ex: We can  take  a table after executing the truncate table we cant able to rec
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Aggregate function.
+
+                            	Aggregate function gives or return the consolidate information about the data present in the table.
+                            	It contains 5 majour types,
+                                             min
+                            	max
+                            	sum 
+                            	avg
+                            	count
+
+
+MIN  return the minimum value present in the coloumn  [field] [record] table. 
+                  SYNATX :
+                  select min (coloumn_name) from table_name
+
+max return the Maximum value present in the coloumn  [field] [record] table. 
+
+                        SYNATX : 
+                        select max (coloumn_name) from table_name
+
+sum  return the sum value present in the coloumn  [field] [record] table.
+
+                      SYNATX : 
+                      select sum (coloumn_name) from table_name
+
+
+avg  return the average  value present in the coloumn  [field] [record] table.
+
+                        SYNATX : 
+                        select avg(coloumn_name) from table_name
+
+
+count return the no of count in the selected   coloumn  [field] [record] table.
+we can also use where condidtion to implement the count query. 
+                  SYNATX : 
+                  select count  (coloumn_name) from table_name
+                   or 
+                  SYNATX : 
+                  select max (coloumn_name) from table_name where column_data = 'value_of_the_record '
+
+------------------------------------------------------------------------------------------------------------------------
