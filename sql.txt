@@ -206,9 +206,9 @@ we can also use where condidtion to implement the count query.
 
 OPERATORS 
                   OR OOPERATOR
-                 AND OPERATOR
-IN OOPERATOR
-NOT IN OOPERATOR
+                  AND OPERATOR
+                  IN OOPERATOR
+                  NOT IN OOPERATOR
 
 SYNTAX :     
 select * from items where price = '5' or price =  '16.3'
@@ -226,6 +226,11 @@ select *   from items where price in (90,80,50,200,20000,10000)
 
 select * from items where price  not in (5,6,7,8,12,16.3)
 select * from items where id not in (1,2,3,4,90,89)
+
+  OR OOPERATOR:
+  OR OOPERATOR works on this or that condition,
+  It gives the values wheather given value is availble in the specifies coloumn
+
 
 
 
